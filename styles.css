@@ -1,28 +1,28 @@
 /* Общие стили */
 @font-face {
     font-family: "hlveticaRoman";
-    src: url('https://github.com/piracrl/fonts-for-project/blob/main/HelveticaNeueCyr-Roman.woff') format('woff');
+    src: url('/HelveticaNeueCyr-Roman.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Vetrino";
-    src: url('https://github.com/piracrl/fonts-for-project/blob/main/Vetrino.otf');
+    src: url('/Vetrino.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "helveticaLight";
-    src: url('https://github.com/piracrl/fonts-for-project/blob/main/HelveticaNeueCyr-Light.woff');
+    src: url('/HelveticaNeueCyr-Light.woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "helveticaMedium";
-    src: url('https://github.com/piracrl/fonts-for-project/blob/main/HelveticaNeueCyr-Medium.woff');
+    src: url('/HelveticaNeueCyr-Medium.woff');
     font-weight: normal;
     font-style: normal;
 }
