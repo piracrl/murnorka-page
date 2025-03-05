@@ -1,6 +1,6 @@
 /* Общие стили */
 @font-face {
-    font-family: "hlveticaRoman";
+    font-family: "helveticaRoman";
     src: url('HelveticaNeueCyr-Roman.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -69,7 +69,7 @@ h1, h2 {
 }
 
 .nav-menu a {
-    font-family: "HelveticaRoman";
+    font-family: "helveticaRoman";
     text-decoration: none;
     color: #000;
 }
@@ -137,7 +137,7 @@ h1, h2 {
 }
 
 .collection-links a {
-    font-family: "HelveticaMedium";
+    font-family: "helveticaMedium";
     color: #000;
     
 }
@@ -167,12 +167,14 @@ h1, h2 {
 }
 
 .footer-menu a {
+    font-family: 'helveticaRoman';
     text-decoration: none;
     font-size: 14px;
     color: #000;
 }
 
 .footer-contacts {
+    font-family: 'helveticaRoman';
     display: flex;
     gap: 20px;
     font-size: 14px;
