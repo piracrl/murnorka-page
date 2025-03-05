@@ -71,6 +71,7 @@ h1, h2 {
 .nav-menu a {
     font-family: "helveticaRoman";
     text-decoration: none;
+    font-size: 14px;
     color: #000;
 }
 
@@ -126,7 +127,6 @@ h1, h2 {
     line-height: 1.2;
     max-width: 440px;
     text-align: left;
-    margin-right: 20px;
 }
 
 .collection-links {
