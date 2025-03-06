@@ -100,8 +100,8 @@ h1, h2 {
 }
 
 /* Основной блок */
-.main {
-    text-align: center;
+.collection-image {
+    height: 460px;
 }
 
 .collection-year {
