@@ -108,12 +108,14 @@ h1, h2 {
     font-family: 'Vetrino';
     font-size: 15px;
     margin-top: 20px;
+    text-align: center;
 }
 
 .collection-title {
     font-family: 'Vetrino';
     font-size: 45px;
     margin-top: 5px;
+    text-align: center;
 }
 
 .main-text {
