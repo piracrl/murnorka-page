@@ -94,6 +94,14 @@ h1, h2 {
     height: 25px;
 }
 
+.cart-icon {
+    background-image: url("https://i.postimg.cc/6ps2rC8j/Shopping-bag.png");
+}
+
+.search-icon {
+    background-image: url("https://i.postimg.cc/Dy444xw4/Search.png");
+}
+
 /* Основной блок */
 .collection-image {
     height: 460px;
